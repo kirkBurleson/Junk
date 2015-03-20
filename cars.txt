@@ -1,4 +1,6 @@
 Dodge Challenger
 BMW M3
 Chevrolet Corvette
+Chevy Malibu
+Honda Civic
 
